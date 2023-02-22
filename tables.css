@@ -1,0 +1,3 @@
+.container table,th,td {border:solid;border-collapse: collapse;margin: 0% auto;padding:5px 10px;}
+.label{font-style: italic;text-align: center;}
+body{background-color: darkslategrey;}
